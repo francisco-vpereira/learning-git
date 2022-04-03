@@ -14,7 +14,7 @@
   - In order to sincronize our local code with our github website code we need to use the command ***git push origin main***. However in order to do this we need to generate an SSH key and add it to our github account ( see  [1](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [2](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)). At this point, if we refresh our github page we'll see the changes that we've made in our code editor. 
   - Now let's say that we have made changes to some of our files in our github page. In order to update the files in our local machine we must execute the following command ***git pull*** on the VSCode terminal.
 
-# 2. Starting a repository in our local machine and upload it to our github account
+# 2. Starting a repository in our local machine and upload it into our github account
 
   - Open terminal  
   - Create a new directory : ***mkdir < folder_name>***
