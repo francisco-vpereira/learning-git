@@ -1,5 +1,7 @@
 # Git and Github for Beginners
-Based on this [video](https://www.youtube.com/watch?v=RGOj5yH7evk).
+
+Small tutorial for begginer based on this [video](https://www.youtube.com/watch?v=RGOj5yH7evk).
+We're going to use VSCode code editor and learn how to **push** repositories into our machine and how to create repositories and **pull** them into our github.
 
 ## Starting a repository on github website and clone it into our machine
 
@@ -27,3 +29,5 @@ Based on this [video](https://www.youtube.com/watch?v=RGOj5yH7evk).
   - Afterward, in the terminal, we type the following command : ***git remote add origin < \HTTPS>***. This will connect our local git repository with our brand new github repository. 
   - To upload our folder we must type : ***git push -u origin master***. We add the ***-u*** option so we only have to type ***git push*** in the future
   - If we refresh our github page we shoudld see that it has been updated
+
+
