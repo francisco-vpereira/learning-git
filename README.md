@@ -15,3 +15,5 @@
   - Now let's say that we have made changes to some of our files in our github page. In order to update the files in our local machine we must execute the following command ***git pull*** on the VSCode terminal.
 
 # 2. Starting a repository in our local machine and upload it to our github account
+
+-blabla
