@@ -1,7 +1,7 @@
 # Git and Github for Beginners
 
-Small tutorial for begginer based on this [video](https://www.youtube.com/watch?v=RGOj5yH7evk).
-We're going to use VSCode code editor and learn how to **push** repositories into our machine and how to create repositories and **pull** them into our github.
+Small tutorial for begginers based on this [video](https://www.youtube.com/watch?v=RGOj5yH7evk).
+We're going to use VSCode code editor and learn how to **pull** repositories into our machine and how to create repositories and **push** them into our github.
 
 ## Starting a repository on github website and clone it into our machine
 
